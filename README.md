@@ -29,5 +29,9 @@ For 85 customers:
 - Cake ≈ predicted value
 - Cookies ≈ predicted value
 
+- ## 📸 Output Graph
+
+![Prediction Graph](output.png)
+
 ## 🎯 Conclusion
 This system helps bakeries decide how much to produce, reducing waste and improving efficiency.
